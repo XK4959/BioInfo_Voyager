@@ -1,0 +1,3 @@
+seq1	gene1
+seq2 LHCB1 chr1:123124-124078	gene2
+seq3	gene3
